@@ -1,8 +1,8 @@
-# numbers = 
+numbers = 
 
-# def square_array(numbers)
-#   new_numbers = 
-#   while 
+def square_array(numbers)
+  new_numbers = 
+  while 
    
-#   end
-# end
+  end
+end
