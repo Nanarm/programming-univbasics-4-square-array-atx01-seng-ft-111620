@@ -1,8 +1,8 @@
 array = [1,2,3]
 
 def square_array(array)
-  new_numbers = 
-  while do
+  counter = 
+  while array <= 3 do
     
   end
 end
